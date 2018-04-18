@@ -10,7 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Import Medium Feed into React ?
 4. Adding Redux ?
 5. Replacing Redux Thunks with Redux Sagas ?
-
-*
 ____________ 
 ? - in progress
